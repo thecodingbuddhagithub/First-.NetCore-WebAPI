@@ -1,4 +1,4 @@
-# First-.Net-Core-WebAPI
+# First-.NetCore-WebAPI
 This repository for Tutorial First .Net Core Web API and this repository is designed for educational purposes. 
 
 ## Getting Started
