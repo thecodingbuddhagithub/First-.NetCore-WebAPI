@@ -1,5 +1,5 @@
-# First-.NetCore-WebAPI
-This repository for Tutorial First .Net Core Web API and this repository is designed for educational purposes. 
+# First-.NetCore-WebAPI-With-Swagger-UI
+This repository for Tutorial First .Net Core Web API with swagger UI and this repository is designed for educational purposes. 
 
 ## Getting Started
 Use these instructions to get the project up and running.
@@ -28,5 +28,6 @@ Follow these steps to get your development environment set up:
 	  ```
    
 ## Technologies
+* Swagger UI
 * .NET Core 3.1
 * ASP.NET Core 3.1
